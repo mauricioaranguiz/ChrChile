@@ -1,2 +1,2 @@
 # ChrChile
-Repositorio de Test Práctico postulación cargo desarrollador backend
+Repositorio de Test Práctico para postulación al de cargo desarrollador backend
